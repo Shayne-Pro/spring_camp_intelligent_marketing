@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+智慧赢销dataset/
+智慧赢销dataset.zip
+final_results.txt
+catboost_info/
+*.joblib
+.DS_Store
